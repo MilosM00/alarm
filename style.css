@@ -16,6 +16,7 @@
     display: grid;
     place-items: center;
 }
+
 .watch{
     background-color: rgb(49, 49, 49);
     width: 500px;
@@ -25,6 +26,7 @@
     display: grid;
     place-items: center;
 }
+
 .inner-watch{
     text-align: center;
     background-color: rgb(8, 8, 8);
@@ -34,6 +36,7 @@
     padding: 15px;
 
 }
+
 .current-time{
     color: rgb(220, 20, 60);
     font-size: 70px;
