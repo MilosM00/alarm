@@ -1,3 +1,3 @@
 # Alarm
 
-Basic online alarm
+Online alarm
