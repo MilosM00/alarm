@@ -42,3 +42,50 @@
     font-size: 70px;
     font-family: 'Monoton', cursive;
 }
+
+.options{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.hours{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.minutes{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.seconds{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.set-alarm{
+    padding: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(220, 20, 60);
+    font-weight: 900;
+    font-style: italic;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+@media (max-width: 500px) {
+    .watch{
+        width: 300px;
+        height: 150px;
+    }
+    
+    .inner-watch{
+        width: 250px;
+        height: 100px;
+    }
+    
+    .current-time{
+        font-size: 40px;
+    }
+}
